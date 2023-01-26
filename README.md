@@ -25,3 +25,5 @@ $
 ```
 
 What am I doing wrong?
+
+Note: I followed this official document for writing my build.clj file: https://clojure.org/guides/tools_build#_compiled_uberjar_application_build
